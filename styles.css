@@ -1,0 +1,68 @@
+.konteineris{
+    margin-top: 60px;
+    margin-left: 120px;
+    margin-right: 120px;
+    border: 1px solid black;
+}
+.contacts{
+    border-radius: 50px;
+    background-color: #ff64ae;
+    width: 158px;
+    height: 52px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: white;
+    float: right;
+    clear: left;
+}
+li{
+    float: left;
+    clear: right;
+}
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.clearfix{
+    overflow: auto;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.Lorem{
+    color: #8B8B8B;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.6px;
+    float: right;
+}
+.nogrid{
+    margin-top: 200px;
+    float: right;
+}
+.tekstai{
+    width: 100%;
+    border: 1px solid greenyellow;
+    float: right;
+}
+.kontaktai{
+    padding: auto;
+    float: left;
+}
+.pirmas{
+    border-radius: 15px;
+    border: 1px solid #D9DDFE;
+    background: #FFF;
+}
