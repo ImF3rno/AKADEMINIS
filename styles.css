@@ -1,8 +1,10 @@
 .konteineris{
-    margin-top: 60px;
-    margin-left: 120px;
-    margin-right: 120px;
+    width: 70rem;
+    margin: 10px;
     border: 1px solid black;
+    padding: 5rem;
+    margin-top: 5rem;
+    margin-left: 5rem;
 }
 .contacts{
     border-radius: 50px;
